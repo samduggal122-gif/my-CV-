@@ -1,7 +1,7 @@
 # AI Copilot Instructions - Samaira's Digital CV
 
 ## Project Overview
-This is a personal digital CV website showcasing Samaira Duggal's profile as a BCA student with interests in tech and orthopedic surgery. The project consists of a single HTML file that combines introductory content with an interactive CSS-animated cute robot mascot.
+This is a personal digital CV website showcasing Samaira Duggal's profile as a BCA student with interests in full stack web development and experimenting with agent assisted coding. The project consists of a single HTML file that combines introductory content with an interactive CSS-animated cute robot mascot. Later to be split into different html and css files with adding of more languages.
 
 ## Architecture
 

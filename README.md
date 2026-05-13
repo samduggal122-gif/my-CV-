@@ -63,7 +63,7 @@ The design uses:
 At the moment, the project follows a minimal structure:
 
 ```bash
-my-CV/
+my-CV-/
 ├── index.html
 ├── .github/
 │   └── copilot-instructions.md
@@ -73,7 +73,7 @@ my-CV/
 As the project grows, it can evolve into something like this:
 
 ```bash
-my-CV/
+my-CV-/
 ├── index.html
 ├── styles/
 │   └── style.css
@@ -88,7 +88,7 @@ my-CV/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/samduggal122xgif/my-CV-.git
+   git clone https://github.com/samduggal122-gif/my-CV-.git
    ```
 
 2. Open the project folder:
